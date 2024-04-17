@@ -14,7 +14,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
         className
       )}
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="100 500 3000 2000"
+      viewBox="100 500 3000 2200"
       fill="none"
     >
       <g filter="url(#filter)">
@@ -23,7 +23,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
           cy="273.501"
           rx="1924.71"
           ry="273.501"
-          transform="matrix(-0.822377 -0.568943 -0.568943 0.822377 3631.88 2291.09)"
+          transform="matrix(-0.422377 -0.468943 -0.268943 0.822377 3631.88 2291.09)"
           fill={fill || "white"}
           fillOpacity="0.21"
         ></ellipse>
