@@ -35,7 +35,7 @@ const musicSchoolContent = [
   ];
 function WhyChooseUs() {
   return (
-    <div>
+    <div className='h-fit w-full'>
       <StickyScroll content={musicSchoolContent}/>
     </div>
   )
